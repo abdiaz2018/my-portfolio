@@ -1,0 +1,23 @@
+import React, { Component } from "react";
+
+class Projects extends Component {
+    render() {
+        return (
+            <main>
+                <h2>My Personal projects</h2>
+                <p>
+                    This is my first personal project and I am working to add more to this site!
+                </p>
+                <h2>My School Projects</h2>
+                <div class="project">
+                    <h3>Character CLI</h3>
+                    <p>
+                        The first project that I made was a simple command line interface. I was able to scrape from an api of over 500 characters. I made it so that it would select 5 random characters for you to pick from by typing 1-5. From there it would get more information on the character you picked.
+                    </p>
+                </div>
+            </main>
+        )
+    }
+}
+
+export default Projects;
