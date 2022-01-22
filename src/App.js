@@ -3,6 +3,8 @@ import React, { Component } from 'react';
 import Navbar from './navbar';
 import { Routes, Route } from 'react-router';
 import Home from './home';
+import Projects from './projects';
+import Contact from './contact';
 
 class App extends Component {
   render() {
@@ -12,7 +14,8 @@ class App extends Component {
         <Navbar/>
         <Routes>
           <Route path="/" element={<Home/>}/>
-          <Route path="/about"/>
+          <Route path="/projects" element={<Projects/>}/>
+          <Route path="/contact" element={<Contact/>}/>
         </Routes>
       </div>
     )
