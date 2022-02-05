@@ -4,7 +4,7 @@ class Contact extends Component {
     render() {
         return (
             <main>
-                <h2>Feel free to Contact me below!</h2>
+                <h2>Interested in contacting me?</h2>
             </main>
         )
     }
