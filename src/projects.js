@@ -18,14 +18,7 @@ class Projects extends Component {
                     </p>
                 </div>
 
-                <div class="project">
-                    <h3>Force User API</h3>
-                    <p>
-                        This project was an api for force users that you can create. You can pick a name, add a race, force alignment, and force ability.
-                        <a href="https://github.com/abdiaz2018/the-force-js-frontend" target="_blank" rel="noreferrer noopener">Here is the frontend github.</a>
-                        <a href="https://github.com/abdiaz2018/the-force-js-backend" target="_blank" rel="noreferrer noopener">Here is the backend github.</a>
-                    </p>
-                </div>
+                
 
                 <div class="project">
                     <h3>Create a Funko</h3>
