@@ -14,6 +14,7 @@ class Home extends Component {
                     I would love to show you what I know and become an even better Software Engineer. 
                     I hope to be a Frontend Developer or a Fullstack Developer. 
                     I also would like to make video games as a hobby.
+                    I always enjoyed video games
                     Please check out my projects that I created in school and anything I am currently working on!
                 </p> 
             </main>
