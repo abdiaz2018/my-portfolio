@@ -9,6 +9,7 @@ class Home extends Component {
                     I am a Software Engineer and I just graduated from Flatiron School. 
                     I grew up in San Jose, California. 
                     I always wanted to make applications for people to use.
+                    I hope I am able to do that as a developer.
                     I am proficient in Ruby, Rails, Javascript, and React. 
                     I would love to show you what I know and become an even better Software Engineer. 
                     I hope to be a Frontend Developer or a Fullstack Developer. 
