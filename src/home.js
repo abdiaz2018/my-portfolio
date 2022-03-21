@@ -6,7 +6,7 @@ class Home extends Component {
             <main>
                 <h2>Hi, I'm Abraham</h2>
                 <p>
-                    I am a Software Engineer and I just graduated from Flatiron School. 
+                    I am a Software Engineer and I just graduated from Flatiron School. asdf
                     I grew up in San Jose, California. 
                     I always wanted to make applications for people to use.
                     I hope I am able to do that as a developer.
